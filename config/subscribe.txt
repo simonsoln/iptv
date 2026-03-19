@@ -3,9 +3,9 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
-https://ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://iptv-org.github.io/iptv/index.m3u
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748b4e6b1a001a77dfe4/master.m3u8
+
 
 
 
