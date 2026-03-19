@@ -3,3 +3,4 @@ tqdm
 lxml
 beautifulsoup4
 flask
+opencc-python-reimplemented
