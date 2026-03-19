@@ -1,4 +1,4 @@
-name: CCTV 稳定版更新
+name: CCTV 自动更新
 
 on:
   schedule:
@@ -8,8 +8,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    # ✅ 这里放 env，确保所有 steps 都继承
     env:
+      # 强制所有 Action 使用 Node.js 24，避免 Node.js 20 废弃警告
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
@@ -17,13 +17,13 @@ jobs:
       - name: Checkout 仓库
         uses: actions/checkout@v6
 
-      # 2️⃣ 安装 Python
+      # 2️⃣ 安装 Python（升级到支持 Node.js 24 的版本）
       - name: 安装 Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 3️⃣ 安装依赖
+      # 3️⃣ 安装 Python 依赖
       - name: 安装依赖
         run: pip install -r requirements.txt
 
@@ -35,7 +35,7 @@ jobs:
       - name: 运行 IPTV-API
         run: python main.py
 
-      # 6️⃣ 提交生成的 M3U
+      # 6️⃣ 提交生成的 M3U 文件
       - name: 提交并推送结果
         run: |
           git config --global user.name "GitHub Action"
