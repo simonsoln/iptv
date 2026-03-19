@@ -1,11 +1,3 @@
-asyncio
-copy
-datetime
-gzip
-os
-pickle
-time
-typing
 pytz
 tqdm
 requests
