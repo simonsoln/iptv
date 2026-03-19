@@ -2,8 +2,8 @@ name: CCTV 自动更新
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # 每6小时
+  workflow_dispatch:       # 手动触发
 
 jobs:
   update:
@@ -15,14 +15,8 @@ jobs:
       - name: 安装 Python
         run: sudo apt-get update && sudo apt-get install -y python3 python3-pip
 
-      # 如果没有 requirements.txt 就跳过
       - name: 安装依赖
-        run: |
-          if [ -f requirements.txt ]; then
-            pip3 install -r requirements.txt
-          else
-            echo "没有 requirements.txt，跳过 pip 安装"
-          fi
+        run: pip3 install -r requirements.txt
 
       - name: 安装 FFmpeg
         run: sudo apt-get install -y ffmpeg
