@@ -7,3 +7,4 @@ flask
 opencc-python-reimplemented
 ipdb
 m3u8
+aiohttp
