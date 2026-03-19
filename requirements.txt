@@ -1,5 +1,14 @@
-requests
+asyncio
+copy
+datetime
+gzip
+os
+pickle
+time
+typing
+pytz
 tqdm
+requests
 lxml
 beautifulsoup4
 flask
