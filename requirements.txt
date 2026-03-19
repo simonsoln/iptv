@@ -6,3 +6,4 @@ beautifulsoup4
 flask
 opencc-python-reimplemented
 ipdb
+m3u8
