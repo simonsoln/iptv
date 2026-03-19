@@ -3,20 +3,17 @@ name: CCTV 稳定版更新
 on:
   schedule:
     - cron: '0 */6 * * *'  # 每6小时自动运行
-  workflow_dispatch:
-
-# ---- 在最外层设置 Node.js 24 强制选项 ----
-defaults:
-  run:
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  workflow_dispatch:       # 支持手动触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    # ✅ 这里放 env，确保所有 steps 都继承
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
-      # 1️⃣ 检出代码
+      # 1️⃣ 检出仓库
       - name: Checkout 仓库
         uses: actions/checkout@v6
 
@@ -26,11 +23,11 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 3️⃣ 安装 Python 依赖
+      # 3️⃣ 安装依赖
       - name: 安装依赖
         run: pip install -r requirements.txt
 
-      # 4️⃣ 安装 ffmpeg
+      # 4️⃣ 安装 FFmpeg
       - name: 安装 FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
@@ -38,11 +35,11 @@ jobs:
       - name: 运行 IPTV-API
         run: python main.py
 
-      # 6️⃣ 提交并推送生成的 M3U 文件
+      # 6️⃣ 提交生成的 M3U
       - name: 提交并推送结果
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add output/
-          git commit -m "CCTV 自动更新"
+          git commit -m "CCTV 自动更新" || echo "没有更新"
           git push
