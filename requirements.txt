@@ -2,3 +2,4 @@ requests
 tqdm
 lxml
 beautifulsoup4
+flask
