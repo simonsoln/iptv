@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/simonsoln/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-03-27 03:04:55
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-03-27 10:14:35
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视频道",CCTV-4
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -1213,3 +1213,13 @@ http://118.81.195.79:9003/hls/31/index.m3u8
 http://59.32.97.20:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="492" tvg-name="Red Bull TV SD (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Red Bull TV SD (720p).png" group-title="♻️未匹配频道",Red Bull TV SD (720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="493" tvg-name="2x2 (576p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/2x2 (576p).png" group-title="♻️未匹配频道",2x2 (576p)
+http://31.148.48.15/2x2/index.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="3ABN Canada (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/3ABN Canada (720p).png" group-title="♻️未匹配频道",3ABN Canada (720p)
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="495" tvg-name="Tonghua TV (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Tonghua TV (1080p).png" group-title="♻️未匹配频道",Tonghua TV (1080p)
+http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-id="495" tvg-name="Tonghua TV (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Tonghua TV (1080p).png" group-title="♻️未匹配频道",Tonghua TV (1080p)
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-id="496" tvg-name="VOA美国之音 (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/VOA美国之音 (1080p).png" group-title="♻️未匹配频道",VOA美国之音 (1080p)
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
