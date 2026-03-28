@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-28 02:55:36,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+2026-03-28 10:05:16,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -620,3 +620,4 @@ Red Bull TV SD (720p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/ma
 Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 Tonghua TV (1080p),https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+2STV (720p),http://69.64.57.208/2stv/playlist.m3u8
