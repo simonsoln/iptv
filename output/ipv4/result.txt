@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 03:53:18,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+2026-06-06 11:22:32,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -622,3 +622,4 @@ VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08
 2STV (720p),http://69.64.57.208/2stv/playlist.m3u8
 Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
 BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
+2M Monde (1080p),https://stream-lb.livemediama.com/2m/hls/master.m3u8
