@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/simonsoln/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-14 03:24:09
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-14 11:57:58
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视频道",CCTV-4
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -105,6 +105,8 @@ https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b42
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="2M (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/2M (1080p).png" group-title="♻️未匹配频道",2M (1080p)
 http://5.253.46.190:8000/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="2M (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/2M (1080p).png" group-title="♻️未匹配频道",2M (1080p)
+https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="2M Monde (576p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/2M Monde (576p).png" group-title="♻️未匹配频道",2M Monde (576p)
 http://5.253.46.190:8000/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="2M Monde +1 (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/2M Monde +1 (1080p).png" group-title="♻️未匹配频道",2M Monde +1 (1080p)
@@ -1243,3 +1245,5 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="503" tvg-name="CCTV-8K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8K.png" group-title="♻️未匹配频道",CCTV-8K
 http://198.204.240.250:82/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="504" tvg-name="1+1 International (576p) [Geo-blocked]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/1+1 International (576p) [Geo-blocked].png" group-title="♻️未匹配频道",1+1 International (576p) [Geo-blocked]
+http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
