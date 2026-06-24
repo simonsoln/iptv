@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-24 04:02:41,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+2026-06-24 11:29:42,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773987300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ae31f461e938a482e0f18f0e9af5352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -634,3 +634,4 @@ CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 1+1 International (576p) [Geo-blocked],http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
 1+1 International HD (720p),https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+1+1 Marafon (1080p),https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
