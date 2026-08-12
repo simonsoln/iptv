@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-12 21:04:52,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+2026-08-13 02:59:35,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
