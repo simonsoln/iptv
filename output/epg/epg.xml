@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260909202639 +0800">
+<tv date="20260910031035 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11566,6 +11566,15 @@
 		<title lang="zh">此频道未能提供节目表敬请原谅!</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260910160000 +0800" stop="20260911000000 +0800">
+		<title lang="zh">此频道未能提供节目表敬请原谅!</title>
+	</programme>
+	<programme channel="三沙卫视" start="20260911000000 +0800" stop="20260911080000 +0800">
+		<title lang="zh">此频道未能提供节目表敬请原谅!</title>
+	</programme>
+	<programme channel="三沙卫视" start="20260911080000 +0800" stop="20260911160000 +0800">
+		<title lang="zh">此频道未能提供节目表敬请原谅!</title>
+	</programme>
+	<programme channel="三沙卫视" start="20260911160000 +0800" stop="20260912000000 +0800">
 		<title lang="zh">此频道未能提供节目表敬请原谅!</title>
 	</programme>
 	<channel id="CETV-1">
